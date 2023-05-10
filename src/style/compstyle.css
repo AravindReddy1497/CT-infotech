@@ -1,0 +1,53 @@
+/* Fonts:
+H1 = Roboto Black, 50px
+H2 = Roboto Medium, 18px
+Body = Roboto Regular, 15px
+
+Colors:
+Background = #FFFFFF
+Font Primary = #000000
+Font Secondary = #979FA0
+Blue = #009BE9
+Green = #8CC928 */
+.main_continar{
+    margin-top: 200px;
+    /* background-color:#981717 ; */
+}
+.header_continer{
+    display: flex;
+    justify-content: space-between;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin-left: 200px;
+    width: 70% !important;
+  }
+  
+  td, th {
+    border: 1px solid #f1eeee;
+    text-align: left;
+    padding: 8px;
+  }
+    
+  th {
+    background-color: #e9e8e8;
+  }
+  .ant-modal-close-x{
+display: none !important;
+  }
+  .Btn_continer{
+    /* background-color: rgb(121, 219, 23); */
+    background-color:#8CC928;
+    color: #ffff;
+    border-radius: 5px;
+    height: 35px;
+    width: 130px;
+    margin-top: 35px;
+    margin-right: 260px;
+    border: none;
+  }
+  .h1_Continer{
+    /* margin-top: 10px; */
+    margin-left: 200px;
+  }

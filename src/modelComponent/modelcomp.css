@@ -1,0 +1,22 @@
+
+
+.ant-btn {
+  display: none !important;
+}
+
+.cancel_btn_continer {
+  color: white;
+  background-color: rgb(195, 5, 5);
+  border-radius: 5px;
+}
+.submit_btn_continer {
+  color: white;
+  background-color: #009be9;
+  border-radius: 5px;
+}
+.btn_continer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
